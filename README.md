@@ -6,7 +6,7 @@ The aim of the project is focused on the question of whether or not patients sho
 
 It is basically divided into four sections: 
 
-1. __Introduction__, where the investigation problem is set and the dataset is described
-2. __Data Wrangling__, where the acquired data are cleaned and parsed
-3. __Exploratory Data Analysis__, in which some intuition about the data are built based on the found patterns
-4. __Conclusion__, where the found insights about the problem are reviewed
+1. __Introduction__, where the investigation problem is set and the dataset is described.
+2. __Data Wrangling__, where the acquired data are cleaned and parsed.
+3. __Exploratory Data Analysis__, in which some intuition about the data are built based on the found patterns.
+4. __Conclusion__, where the found insights about the problem are reviewed.
