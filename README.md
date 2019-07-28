@@ -4,7 +4,7 @@ Many times individuals do not show up for a medical appointment. Previous studie
 
 The aim of the project is focused on the question of whether or not patients show up for their appointment.
 
-It is basically divided into four sections: 
+It is basically divided into four sections:- 
 
 1. __Introduction__, where the investigation problem is set and the dataset is described.
 2. __Data Wrangling__, where the acquired data are cleaned and parsed.
